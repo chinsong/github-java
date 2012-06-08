@@ -1,0 +1,4 @@
+#Mon Sep 19 09:09:15 KST 2011
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression="Open Resource"

@@ -1,0 +1,8 @@
+1316329105863	Delete element
+1316329148714	Rename package 'springbook.user'
+1316329153249	Delete element
+1316329162733	Delete element
+1316329613136	Rename resource 'DB TABLE'
+1316330897955	Extract method 'getConnection'
+1316332264700	Extract method 'connectionMaker'
+1316391849321	Rename type 'DConnectionMaker'

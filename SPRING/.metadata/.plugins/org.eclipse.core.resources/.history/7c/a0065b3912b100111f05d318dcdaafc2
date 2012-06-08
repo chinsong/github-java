@@ -14,6 +14,7 @@ public class UserDaoTest {
 	 * @param args
 	 */
 	public static void main(String[] args) throws ClassNotFoundException, SQLException{
+		// TODO Auto-generated method stub
 		
 		//1-Factory Use
 		//UserDao dao = new DaoFactory().userDao();
